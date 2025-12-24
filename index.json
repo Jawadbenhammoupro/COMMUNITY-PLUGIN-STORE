@@ -1,0 +1,30 @@
+{
+  "store_name": "Community Plugin Store",
+  "version": "1.0",
+  "plugins": [
+    {
+      "id": "vidfast.pro",
+      "name": "VidFast.pro",
+      "author": "Community",
+      "version": "1.0.0",
+      "description": "VidFast streaming provider",
+      "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/vidfast.pro.json"
+    },
+    {
+      "id": "videasy.net",
+      "name": "VidEasy.net",
+      "author": "Community",
+      "version": "1.0.0",
+      "description": "VidEasy streaming provider",
+      "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/videasy.net.json"
+    },
+    {
+      "id": "venus.sh",
+      "name": "Venus.sh",
+      "author": "Community",
+      "version": "1.0.0",
+      "description": "Venus streaming provider",
+      "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/venus.sh.json"
+    }
+  ]
+}
