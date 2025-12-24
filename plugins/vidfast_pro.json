@@ -1,0 +1,21 @@
+{
+    "id": "vidfast_pro",
+    "name": "VIDFAST.PRO",
+    "version": "1.0.0",
+    "author": "Community",
+    "type": "community",
+    "description": "Fast video streaming source.",
+    "supports": [
+        "movie",
+        "tv"
+    ],
+    "playback": "embed",
+    "movie_url": "https://vidfast.pro/movie/{tmdbId}",
+    "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}",
+    "image_url": "https://vidfast.pro/favicon.ico",
+    "headers": {
+        "Referer": "https://vidfast.pro/"
+    },
+    "icon_color": "#7B8591",
+    "language": "en"
+}

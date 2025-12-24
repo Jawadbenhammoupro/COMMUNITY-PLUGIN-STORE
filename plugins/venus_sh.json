@@ -1,0 +1,21 @@
+{
+    "id": "venus_sh",
+    "name": "VENUS.SH",
+    "version": "1.0.0",
+    "author": "Community",
+    "type": "community",
+    "description": "Venus streaming source.",
+    "supports": [
+        "movie",
+        "tv"
+    ],
+    "playback": "embed",
+    "movie_url": "https://venus.sh/embed/{tmdbId}",
+    "tv_url": "https://venus.sh/embed/{tmdbId}/{season}/{episode}",
+    "image_url": "https://venus.sh/favicon.ico",
+    "headers": {
+        "Referer": "https://venus.sh/"
+    },
+    "icon_color": "#9C27B0",
+    "language": "en"
+}

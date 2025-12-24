@@ -1,0 +1,21 @@
+{
+    "id": "videasy_net",
+    "name": "VIDEASY.NET",
+    "version": "1.0.0",
+    "author": "Community",
+    "type": "community",
+    "description": "Easy video streaming source.",
+    "supports": [
+        "movie",
+        "tv"
+    ],
+    "playback": "embed",
+    "movie_url": "https://videasy.net/e/{tmdbId}",
+    "tv_url": "https://videasy.net/e/{tmdbId}/{season}/{episode}",
+    "image_url": "https://videasy.net/favicon.ico",
+    "headers": {
+        "Referer": "https://videasy.net/"
+    },
+    "icon_color": "#FF5722",
+    "language": "en"
+}
