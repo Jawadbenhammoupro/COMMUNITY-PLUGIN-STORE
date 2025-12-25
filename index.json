@@ -8,7 +8,7 @@
             "author": "Community",
             "version": "1.0.0",
             "description": "Fast video streaming source.",
-            "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/vidfast_pro.json"
+            "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/vidfast_pro.json"
         },
         {
             "id": "videasy_net",
@@ -16,7 +16,7 @@
             "author": "Community",
             "version": "1.0.0",
             "description": "Easy video streaming source.",
-            "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/videasy_net.json"
+            "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/videasy_net.json"
         },
         {
             "id": "venus_sh",
@@ -24,7 +24,7 @@
             "author": "Community",
             "version": "1.0.0",
             "description": "Venus streaming source.",
-            "url": "https://raw.githubusercontent.com/placeholder_user/community-plugins/main/plugins/venus_sh.json"
+            "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/venus_sh.json"
         }
     ]
 }
