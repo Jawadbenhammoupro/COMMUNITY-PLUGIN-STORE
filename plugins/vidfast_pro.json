@@ -10,8 +10,8 @@
         "tv"
     ],
     "playback": "embed",
-    "movie_url": "https://vidfast.pro/movie/{tmdbId}",
-    "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}",
+    "movie_url": "https://vidfast.pro/movie/{tmdbId}?autoPlay=true",
+    "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}?autoPlay=true",
     "image_url": "https://vidfast.pro/favicon.ico",
     "headers": {
         "Referer": "https://vidfast.pro/"
