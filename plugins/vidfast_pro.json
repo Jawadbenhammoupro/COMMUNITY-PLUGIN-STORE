@@ -1,21 +1,26 @@
 {
-    "id": "vidfast_pro",
-    "name": "VIDFAST.PRO",
-    "version": "1.0.0",
-    "author": "Community",
-    "type": "community",
-    "description": "Fast video streaming source.",
-    "supports": [
-        "movie",
-        "tv"
-    ],
-    "playback": "embed",
-    "movie_url": "https://vidfast.pro/movie/{tmdbId}?autoPlay=true",
-    "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}?autoPlay=true",
-    "image_url": "https://vidfast.pro/favicon.ico",
-    "headers": {
-        "Referer": "https://vidfast.pro/"
-    },
-    "icon_color": "#7B8591",
-    "language": "en"
+  "id": "vidfast_pro",
+  "name": "VIDFAST.PRO",
+  "version": "1.1.0",
+  "author": "Community",
+  "type": "community",
+  "description": "Fast video streaming source with auto play, auto next and multi-language subtitles (if available).",
+  "supports": [
+    "movie",
+    "tv"
+  ],
+  "playback": "embed",
+
+  "movie_url": "https://vidfast.pro/movie/{tmdbId}?autoPlay=true&title=true&poster=true&theme=16A085",
+  "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}?autoPlay=true&title=true&poster=true&theme=16A085&nextButton=true&autoNext=true",
+
+  "image_url": "https://vidfast.pro/favicon.ico",
+
+  "headers": {
+    "Referer": "https://vidfast.pro/",
+    "Origin": "https://vidfast.pro"
+  },
+
+  "icon_color": "#16A085",
+  "language": "multi"
 }
