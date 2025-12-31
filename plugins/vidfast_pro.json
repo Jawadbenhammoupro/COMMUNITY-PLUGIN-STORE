@@ -11,8 +11,8 @@
   ],
   "playback": "embed",
 
-  "movie_url": "https://vidfast.pro/movie/{tmdbId}?autoPlay=true&title=true&poster=true&theme=16A085",
-  "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}?autoPlay=true&title=true&poster=true&theme=16A085&nextButton=true&autoNext=true",
+  "movie_url": "https://vidfast.pro/movie/{tmdbId}?autoPlay=true&title=true&poster=false&theme=16A085",
+  "tv_url": "https://vidfast.pro/tv/{tmdbId}/{season}/{episode}?autoPlay=true&title=true&poster=false&theme=16A085&nextButton=true&autoNext=true",
 
   "image_url": "https://vidfast.pro/favicon.ico",
 
