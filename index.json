@@ -6,7 +6,7 @@
       "id": "vidfast_pro",
       "name": "VIDFAST.PRO",
       "author": "Community",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "description": "Fast video streaming source with autoplay, auto-next and multi-language subtitles (if available).",
       "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/vidfast_pro.json",
       "image_url": "https://vidfast.pro/favicon.ico"
@@ -15,7 +15,7 @@
       "id": "videasy_net",
       "name": "VIDEASY.NET",
       "author": "Community",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "description": "Easy video streaming source with autoplay and responsive embed support.",
       "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/videasy_net.json",
       "image_url": "https://videasy.net/favicon.ico"
@@ -24,7 +24,7 @@
       "id": "venus_sh",
       "name": "VENUS.SH",
       "author": "Community",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "description": "Venus streaming source with autoplay and multi-language subtitle support (if available).",
       "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/venus_sh.json",
       "image_url": "https://venus.sh/favicon.ico"
