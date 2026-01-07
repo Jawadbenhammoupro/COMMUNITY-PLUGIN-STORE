@@ -1,15 +1,20 @@
 {
   "store_name": "Community Plugin Store",
   "version": "1.0",
+
   "plugins": [
     {
       "id": "vidfast_pro",
       "name": "VIDFAST.PRO",
       "author": "Community",
-      "version": "1.0.0",
-      "description": "Fast video streaming source with autoplay, auto-next and multi-language subtitles (if available).",
+
+      "description": "Community video source plugin.",
+
       "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/vidfast_pro.json",
-      "image_url": "https://vidfast.pro/favicon.ico"
+
+      "image_url": "https://vidfast.pro/favicon.ico",
+
+      "enabled_by_default": false
     }
   ]
 }
