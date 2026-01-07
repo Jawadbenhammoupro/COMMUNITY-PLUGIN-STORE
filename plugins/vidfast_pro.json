@@ -1,7 +1,7 @@
 {
   "id": "vidfast_pro",
   "name": "VIDFAST.PRO",
-  "version": "1.0",
+  "version": "1.1.0",
   "author": "Community",
   "type": "community",
 
@@ -21,6 +21,11 @@
   },
 
   "disclaimer_required": true,
+
+  "kill_switch": false,
+  "status": "active",
+  "kill_reason": "",
+  "updated_at": "2026-01-07",
 
   "icon_color": "#16A085",
   "language": "en"
