@@ -22,9 +22,10 @@
 
   "disclaimer_required": true,
 
-  "kill_switch": false,
-  "status": "active",
-  "kill_reason": "",
+  "kill_switch": true,
+  "status": "disabled",
+  "kill_reason": "This source is no longer supported."
+
 
   "icon_color": "#16A085",
   "language": "en"
