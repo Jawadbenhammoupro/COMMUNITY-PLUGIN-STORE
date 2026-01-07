@@ -20,10 +20,8 @@
     "Origin": "https://vidfast.pro"
   },
 
-  "enabled_by_default": false,
   "disclaimer_required": true,
 
-  "image_url": "https://vidfast.pro/favicon.ico",
   "icon_color": "#16A085",
   "language": "en"
 }
