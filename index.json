@@ -1,20 +1,15 @@
 {
-  "store_name": "Community Plugin Store",
-  "version": "1.0",
-
-  "plugins": [
-    {
-      "id": "vidfast_pro",
-      "name": "VIDFAST.PRO",
-      "author": "Community",
-
-      "description": "Community video source plugin.",
-
-      "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/vidfast_pro.json",
-
-      "image_url": "https://vidfast.pro/favicon.ico",
-
-      "enabled_by_default": false
-    }
-  ]
+    "store_name": "Community Plugin Store",
+    "version": "1.0",
+    "plugins": [
+        {
+            "id": "vidfast_pro",
+            "name": "VIDFAST.PRO",
+            "author": "Community",
+            "description": "Community video source plugin.",
+            "url": "https://raw.githubusercontent.com/Jawadbenhammoupro/COMMUNITY-PLUGIN-STORE/main/plugins/vidfast_pro.json",
+            "image_url": "https://vidfast.pro/favicon.ico",
+            "enabled_by_default": false
+        }
+    ]
 }
